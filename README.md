@@ -1,6 +1,6 @@
 # Satellite Image Segmentation
 
-7-class Image segmentation with Pretrained Deeplab v3 on satellite image dataset
+7-class Image segmentation with pretrained Deeplab v3 on satellite image dataset
 
 mIoU: 0.7438
 
