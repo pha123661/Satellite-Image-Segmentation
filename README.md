@@ -1,4 +1,4 @@
-# Image Segmentation
+# Satellite Image Segmentation
 
 7-class Image segmentation with Pretrained Deeplab v3 on satellite image dataset
 
